@@ -19,25 +19,41 @@ This project demonstrates class design, encapsulation, STL usage, file handling,
 🧠 Concepts Used
 
 Concept	                |  Description
+
 ------------------------------------------------------------------------------------------
+
 Classes & Objects	      |  Separate Book and Library classes with clear responsibilities.
+
 Encapsulation	          |  Private data members and public accessors/mutators.
+
 STL (vector)	          |  Dynamic list for storing books efficiently.
+
 File Handling (fstream)	|  Read/write data for persistence across runs.
+
 Exception Handling	    |  Handles invalid input and file errors.
+
 Menu-driven System	    |  Simple text-based interface for user operations.
 
 🗂️ Project Structure
 
 LibraryManagementSystem/
+
 │
+|
 ├── Book.h
+|
 ├── Book.cpp
+|
 ├── Library.h
+|
 ├── Library.cpp
+|
 ├── main.cpp
+|
 ├── build.bat            # (for Windows users – compile & run)
+|
 ├── library_data.txt      # auto-created file for storing books
+|
 └── README.md
 
 🧩 Sample Menu
