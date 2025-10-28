@@ -68,3 +68,28 @@ LibraryManagementSystem/
 7. Save & Exit
 Enter choice:
 
+Example File Format:
+ID
+Title
+Author
+IssuedStatus(0/1)
+
+Example:
+101
+C++ Primer
+Stanley Lippman
+0
+102
+Effective Modern C++
+Scott Meyers
+1
+
+💡 Learning Outcomes
+
+Applied OOP fundamentals to a real-world problem.
+
+Learned file handling and persistent storage techniques.
+
+Practiced modular programming using .h and .cpp files.
+
+Built a complete interactive console application from scratch.
