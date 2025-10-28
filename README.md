@@ -72,7 +72,7 @@ Example File Format:
 ID
 Title
 Author
-IssuedStatus(0/1)
+IssuedStatus (0/1)
 
 Example:
 101
